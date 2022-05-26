@@ -10,3 +10,5 @@
   
   <img src="https://user-images.githubusercontent.com/101893896/166433149-101b9545-79c7-4330-b3bd-b2a349ed840d.png" width="500px" height="250">
 </article>
+
+![Cards Gif](https://user-images.githubusercontent.com/101893896/170575943-baea8749-ede0-4557-ab9e-7db5bb709eb4.gif)
