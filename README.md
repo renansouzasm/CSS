@@ -6,9 +6,15 @@
   menos poluído e mais facil de entender.</p>
 
 <article>
-  <h2>Formulário</h2>
+  <h2>Cards</h2>
+  <p>Criei alguns cards personalizados com algumas animações básicas para práticar e gostei bastante do resultado</p>
+  <p>Tentei deixar o código o mais simples possível</p>
   
-  <img src="https://user-images.githubusercontent.com/101893896/166433149-101b9545-79c7-4330-b3bd-b2a349ed840d.png" width="500px" height="250">
+  ![Cards Gif](https://user-images.githubusercontent.com/101893896/170575943-baea8749-ede0-4557-ab9e-7db5bb709eb4.gif)
 </article>
 
-![Cards Gif](https://user-images.githubusercontent.com/101893896/170575943-baea8749-ede0-4557-ab9e-7db5bb709eb4.gif)
+<article>
+  <h2>Formulário</h2>
+  
+  <img src="https://user-images.githubusercontent.com/101893896/166433149-101b9545-79c7-4330-b3bd-b2a349ed840d.png" width="480px" height="250">
+</article>
