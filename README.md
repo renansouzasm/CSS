@@ -14,5 +14,5 @@
 <article>
   <h2>Formulário</h2>
   
-  <img src="https://user-images.githubusercontent.com/101893896/166433149-101b9545-79c7-4330-b3bd-b2a349ed840d.png" width="480px" height="250">
+  <img src="https://user-images.githubusercontent.com/101893896/166433149-101b9545-79c7-4330-b3bd-b2a349ed840d.png" width="480px">
 </article>
