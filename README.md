@@ -7,8 +7,6 @@
 
 <article>
   <h2>Cards</h2>
-  <p>Criei alguns cards personalizados com algumas animações básicas para práticar e gostei bastante do resultado</p>
-  <p>Tentei deixar o código o mais simples possível</p>
   
   ![Cards Gif](https://user-images.githubusercontent.com/101893896/170575943-baea8749-ede0-4557-ab9e-7db5bb709eb4.gif)
 </article>
