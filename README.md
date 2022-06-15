@@ -6,7 +6,7 @@
   menos poluído e mais facil de entender.</p>
 
 # Cards
-<div>
+<div width="500px">
   <img src="" alt="Cards Gif">
 </div>
 
