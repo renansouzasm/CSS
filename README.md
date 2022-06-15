@@ -7,7 +7,7 @@
 
 # Cards
 <div>
-  <img src="https://user-images.githubusercontent.com/101893896/173874081-932225c9-fc82-4e62-8a5a-ccea4ade6aba.png" alt="Cards Gif" width="500px">
+  <img src="https://user-images.githubusercontent.com/101893896/173887034-d0b7a4c9-f670-480c-bde1-2ae0ccd5de96.gif" alt="Cards Gif" max-width="500px">
 </div>
 
 # Login
