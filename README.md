@@ -5,9 +5,9 @@
   estou práticando durante meus estudos na faculdade, seja tentando criar/recriar algum projéto, ou alterando o código para que fique 
   menos poluído e mais facil de entender.</p>
 
+# Login
 <div>
-  # Login
-  <img src="https://github.com/RenanSouz/CSS/issues/3#issue-1272447186" alt="Login">
+  <img src="https://user-images.githubusercontent.com/101893896/173874081-932225c9-fc82-4e62-8a5a-ccea4ade6aba.png" alt="Login" width="500px">
 </div>
 
 <!--
