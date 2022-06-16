@@ -1,7 +1,6 @@
 <div>
   <img src="https://user-images.githubusercontent.com/101893896/174000346-76e3bcd1-378c-4d6b-a819-5ea57ceabcdf.png" alt="" width="100%">
 </div>
-<p>Olá 👋, sinta-se à vontade para dar uma olhada no README para ver uma prévia de cada arquivo sem precisar entrar em cada um.</p>
 
 ## Cards
 <div>
