@@ -1,6 +1,4 @@
-<div>
-  <img src="https://user-images.githubusercontent.com/101893896/174000346-76e3bcd1-378c-4d6b-a819-5ea57ceabcdf.png" alt="" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/101893896/174000346-76e3bcd1-378c-4d6b-a819-5ea57ceabcdf.png" alt="Banner CSS" width="100%">
 
 ## Cards
 <div>
