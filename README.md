@@ -1,5 +1,5 @@
 <div>
-  <img src="https://user-images.githubusercontent.com/101893896/173976191-ab8c514b-43ec-4ebc-8e31-04a312269c94.png" alt="" width="100%">
+  <img src="https://user-images.githubusercontent.com/101893896/173999095-5e6e3ded-ae7c-47da-bb15-ae6a9b92842a.png" alt="" width="100%">
 </div>
 <p>Olá 👋, sinta-se à vontade para dar uma olhada no README para ver uma prévia de cada arquivo sem precisar entrar em cada um.</p>
 
