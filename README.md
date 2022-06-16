@@ -1,4 +1,6 @@
-# CSS
+<div>
+  <img src="https://user-images.githubusercontent.com/101893896/173976191-ab8c514b-43ec-4ebc-8e31-04a312269c94.png" alt="" width="100%">
+</div>
 <p>Olá 👋, sinta-se à vontade para dar uma olhada no README para ver uma prévia de cada arquivo sem precisar entrar em cada um.</p>
 
 ## Cards
@@ -13,13 +15,6 @@
   <img src="https://user-images.githubusercontent.com/101893896/173874081-932225c9-fc82-4e62-8a5a-ccea4ade6aba.png" alt="Login" width="600px">
   <img src="https://user-images.githubusercontent.com/101893896/173875064-12f0d850-0eaa-4eec-a735-ba1ddf3e8719.png" alt="Login Mobile" width="110px">
 </div>
-
-<!--
-# Projeto
-<div>
-  <img src="" alt="">
-</div>
--->
 
 <!--
 # Projeto
