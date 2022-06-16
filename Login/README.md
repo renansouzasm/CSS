@@ -1,6 +1,5 @@
 # Login
 <div>
-  <p>Uma Tela de Login responsiva e com tema dark</p>
-  <img src="https://user-images.githubusercontent.com/101893896/173874081-932225c9-fc82-4e62-8a5a-ccea4ade6aba.png" alt="Login" width="100%">
-  <!--<img src="https://user-images.githubusercontent.com/101893896/173875064-12f0d850-0eaa-4eec-a735-ba1ddf3e8719.png" alt="Login Mobile" width="110px">-->
+  <p>Tela de Login com tema dark & que se adapta ao tamanho da tela!</p>
+  <img src="https://user-images.githubusercontent.com/101893896/174119346-38edd814-5dec-403c-91bc-792886421bc6.png" alt="Login" width="100%">   
 </div>
