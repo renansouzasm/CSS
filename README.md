@@ -4,7 +4,8 @@
 
 ## Cards
 <div>
-  <img src="https://user-images.githubusercontent.com/101893896/174102932-a742a8f3-e2f9-48d8-bb02-6d7658d00896.gif" alt="Login" width="600px">   
+  <p>Cards personalizados feitos em css utilizando hover</p>
+  <img src="https://user-images.githubusercontent.com/101893896/174112707-a16e57e2-8ab8-438a-86dd-81a01ab12761.gif" alt="Login" width="50%">   
 </div>
 
 ## Login
