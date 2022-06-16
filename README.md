@@ -3,27 +3,13 @@
 </div>
 
 ## Cards
-<div>
+<div width="500px">
   <p>Cards personalizados feitos em css utilizando hover</p>
-  <img src="https://user-images.githubusercontent.com/101893896/174112707-a16e57e2-8ab8-438a-86dd-81a01ab12761.gif" alt="Login" width="50%">   
+  <img src="https://user-images.githubusercontent.com/101893896/174112707-a16e57e2-8ab8-438a-86dd-81a01ab12761.gif" alt="Login" height="250px">   
 </div>
 
 ## Login
-
-| <p>Um projeto feito apenas para treinar e explorar alguns efeitos com o hover no css</p>                                                                            | 
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://user-images.githubusercontent.com/101893896/173874081-932225c9-fc82-4e62-8a5a-ccea4ade6aba.png" alt="Login" width="600px">                        |
-
-<!--
-# Projeto
-<div>
-  <img src="" alt="">
+<div width="500px">
+  <p>Cards personalizados feitos em css utilizando hover</p>
+  <img src="https://user-images.githubusercontent.com/101893896/174112707-a16e57e2-8ab8-438a-86dd-81a01ab12761.gif" alt="Login" height="250px">   
 </div>
--->
-
-<!--
-# Projeto
-<div>
-  <img src="" alt="">
-</div>
--->
