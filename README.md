@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/101893896/174000346-76e3bcd1-378c-4d6b-a819-5ea57ceabcdf.png" alt="Banner CSS" id="banner" width="100%"/>
 
 # Tópicos
-<a href="cards">Cards</a>
+<a href="#cards">Cards</a>
 
-<a href="login">Login</a>
+<a href="#login">Login</a>
 
 ## <h2 id="cards">Cards</h2>
 <div>
