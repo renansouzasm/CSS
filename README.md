@@ -5,23 +5,16 @@
 
 <a href="#login">Login</a>
 
-| Cards | Login |
-| ------------------------------------ | ------------------------------------ |
-| <img src="https://user-images.githubusercontent.com/101893896/174465622-21536ec9-bde6-4a24-a2da-3432b7fb485f.gif" alt="Cards" id="cards" height="400px"/> | <img src="https://user-images.githubusercontent.com/101893896/174465568-e7be8d11-0ad2-49da-8e31-c7cc5e0f3eff.png" alt="Login" id="login" height="400px"/> |
-| Cards | Login |
-| <img src="https://user-images.githubusercontent.com/101893896/174465622-21536ec9-bde6-4a24-a2da-3432b7fb485f.gif" alt="Cards" id="cards" height="400px"/> | <img src="https://user-images.githubusercontent.com/101893896/174465568-e7be8d11-0ad2-49da-8e31-c7cc5e0f3eff.png" alt="Login" id="login" height="400px"/> |  
-  
-<!--
 ## <h2 id="cards">Cards</h2>
 <div>
   <p>Cards personalizados feitos em css utilizando hover!</p>
-  <img src="https://user-images.githubusercontent.com/101893896/174112707-a16e57e2-8ab8-438a-86dd-81a01ab12761.gif" alt="Login" height="230px"/>   
+  <img src="https://user-images.githubusercontent.com/101893896/174112707-a16e57e2-8ab8-438a-86dd-81a01ab12761.gif" alt="Login" height="220px"/>   
 </div>
 
 ## <h2 id="login">Login</h2>
 <div>
   <p>Tela de Login com tema dark & que se adapta ao tamanho da tela!</p>
-  <img src="https://user-images.githubusercontent.com/101893896/174465568-e7be8d11-0ad2-49da-8e31-c7cc5e0f3eff.png" alt="Login"/>   
+  <img src="https://user-images.githubusercontent.com/101893896/174465568-e7be8d11-0ad2-49da-8e31-c7cc5e0f3eff.png" alt="Login" width="440px"/>   
 </div>
 
 <!--
