@@ -13,6 +13,4 @@
 <p>Tela de Login com tema dark & que se adapta ao tamanho da tela!</p>
 <img src="https://user-images.githubusercontent.com/101893896/174467718-794a548f-f406-45e7-bb15-b7b49b7a759d.png" alt="Login" width="440px"/>   
 
-
-<!--
 <a href="#banner">⬆️ go to top</a>
