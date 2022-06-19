@@ -9,9 +9,9 @@
 
 | Project | Short description |
 | ------------------------------------ | ------------------------------------ |
-| <img src="https://user-images.githubusercontent.com/101893896/174503688-554ec085-f7be-46dc-8a0b-02b7ff5ab50f.gif" alt="Login" height="200px" width="400px"/> | <h2 id="bounce">Bounce</h2> Um projeto básico apenas para testar a animação em css! |
-| <img src="https://user-images.githubusercontent.com/101893896/174112707-a16e57e2-8ab8-438a-86dd-81a01ab12761.gif" alt="Login" height="200px"/> | <h2 id="cards">Cards</h2> Cards personalizados feitos em css utilizando hover! |
-| <img src="https://user-images.githubusercontent.com/101893896/174467718-794a548f-f406-45e7-bb15-b7b49b7a759d.png" alt="Login" height="200px"/> | <h2 id="login">Login</h2> Tela de Login com tema dark & que se adapta ao tamanho da tela! |
+| <img src="https://user-images.githubusercontent.com/101893896/174503688-554ec085-f7be-46dc-8a0b-02b7ff5ab50f.gif" alt="Login"/> | <h2 id="bounce">Bounce</h2> Um projeto básico apenas para testar a animação em css! |
+| <img src="https://user-images.githubusercontent.com/101893896/174112707-a16e57e2-8ab8-438a-86dd-81a01ab12761.gif" alt="Login"/> | <h2 id="cards">Cards</h2> Cards personalizados feitos em css utilizando hover! |
+| <img src="https://user-images.githubusercontent.com/101893896/174467718-794a548f-f406-45e7-bb15-b7b49b7a759d.png" alt="Login"/> | <h2 id="login">Login</h2> Tela de Login com tema dark & que se adapta ao tamanho da tela! |
 
 
 <!--
