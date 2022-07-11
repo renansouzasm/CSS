@@ -49,7 +49,7 @@
   <tr>
     <th align="center">
       <h2 id="maratona-explorer">Maratona explorer</h2>
-       <p>Tela de Login com tema dark & que se adapta ao tamanho da tela!</p>
+       <p>Uma página feita utilizando a ideia de link tree durante a maratona explorer 2.0 da rocketseat!</p>
        <a href="https://github.com/RenanSouz/Maratona-Explorer" target="_blank">repository</a>
     </th>  
   </tr>
