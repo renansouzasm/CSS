@@ -9,8 +9,8 @@
 
 <a href="#maratona-explorer">Maratona explorer</a>
 
-
 <table>
+                    <!--bounce-->
   <tr>
     <th align="center">    
       <h2 id="bounce">Bounce</h2>
@@ -23,6 +23,7 @@
     </td>
   </tr>
   
+                    <!--cards-->
   <tr>
     <th align="center">
       <h2 id="cards">Cards</h2>
@@ -35,6 +36,7 @@
     </td>
   </tr>
 
+                    <!--login-->
   <tr>
     <th align="center">
       <h2 id="login">Login</h2>
@@ -47,6 +49,7 @@
     </td>
   </tr>
   
+                      <!--maratona explorer-->
   <tr>
     <th align="center">
       <h2 id="maratona-explorer">Maratona explorer</h2>
