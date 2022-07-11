@@ -62,7 +62,7 @@
 
 <a href="#banner">⬆️ go to top</a>
 
-## 📜 License
+## 📜 LICENSE
 ```
 MIT License
 Copyright © 2022 | Renan Souza 🍁
