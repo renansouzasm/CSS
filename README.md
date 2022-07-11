@@ -61,3 +61,9 @@
 </table>
 
 <a href="#banner">⬆️ go to top</a>
+
+## 📜 License
+```
+MIT License
+Copyright (c) 2022 | Renan Souza 🍁
+```
