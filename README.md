@@ -65,5 +65,5 @@
 ## 📜 License
 ```
 MIT License
-Copyright (c) 2022 | Renan Souza 🍁
+Copyright © 2022 | Renan Souza 🍁
 ```
