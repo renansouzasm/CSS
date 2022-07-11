@@ -13,7 +13,7 @@
   <tr>
     <th align="center">    
       <h2 id="bounce">Bounce</h2>
-      <p>Um projeto básico apenas para testar a animação em css!</p>
+      <p>Um projeto básico apenas para testar a animação do @keyframes em css!</p>
     </th>
   </tr>
   <tr>
