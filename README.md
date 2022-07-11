@@ -39,7 +39,8 @@
     <th align="center">
       <h2 id="maratona-explorer">Maratona explorer</h2>
        <p>Tela de Login com tema dark & que se adapta ao tamanho da tela!</p>
-    </th>
+       <a href="https://github.com/RenanSouz/Maratona-Explorer" target="_blank">repository</a>
+    </th>  
   </tr>
   
   <tr>
