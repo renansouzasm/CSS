@@ -12,8 +12,7 @@
 <table>
   <tr>
     <th align="center">    
-      <h2 id="bounce">Bounce</h2>
-      <p>Um projeto básico apenas para testar a animação do @keyframes em css, e meu primeiro contato com scss!</p>
+      <h3 id="bounce">Bounce</h3>
     </th>
   </tr>
   <tr>
@@ -24,8 +23,7 @@
   
   <tr>
     <th align="center">
-      <h2 id="cards">Cards</h2>
-      <p>Cards personalizados feitos em css utilizando hover!</p>
+      <h3 id="cards">Cards</h3>
     </th>
   </tr>
   <tr>
@@ -36,8 +34,7 @@
 
   <tr>
     <th align="center">
-      <h2 id="login">Login</h2>
-      <p>Tela de Login com tema dark & que se adapta ao tamanho da tela!</p>
+      <h3 id="login">Login</h3>
     </th>
   </tr>
   <tr>
@@ -48,9 +45,7 @@
   
   <tr>
     <th align="center">
-      <h2 id="maratona-explorer">Maratona explorer</h2>
-       <p>Uma página feita utilizando a ideia de link tree durante a maratona explorer 2.0 da rocketseat!</p>
-       <a href="https://github.com/RenanSouz/Maratona-Explorer" target="_blank">repository</a>
+      <h3 id="maratona-explorer">Maratona explorer | <a href="https://github.com/renansouzasm/Maratona-explorer" target="_blank">repository</a></h3>
     </th>  
   </tr>
   <tr>
